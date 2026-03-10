@@ -16,41 +16,32 @@
 
 ---
 
-## 🔗 Connect with Me
-
-- GitHub: https://github.com/garima06-alt
-- Email: garimajadhav42@gmail.com
-
----
-
 ## 🛠 Tech Stack
 
-**Languages**
+### 💻 Programming Languages
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![Git](https://img.shields.io/badge/Git-red)
-**Tools**
+### 🌐 Web Development
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+</p>
 
-Git | GitHub | VS Code | Jupyter Notebook | Excel
-
-**Design**
-
-Figma | Canva | Adobe tools
-
----
-
-## 📊 GitHub Stats
-
-![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=garima06-alt&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=garima06-alt)
-
----
+### 🧰 Tools & Platforms
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+</p>
+]
 
 ## 📈 Top Languages
 
@@ -59,3 +50,16 @@ Figma | Canva | Adobe tools
 ---
 
 ✨ Always learning and building new things!
+## 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:garimajadhav42@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
