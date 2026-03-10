@@ -49,21 +49,33 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
+## 🤝 Open Source Work
 
-## 🌸 Let’s Connect
+### 🗳️ Jana Vani
+
+Contributed to **Jana Vani**, a civic engagement platform designed to amplify public voices and encourage community participation.
+
+✨ Assisted in improving frontend components  
+✨ Supported UI structure and usability improvements  
+✨ Collaborated with contributors on feature enhancements  
+
+🔗 Project Repository: https://github.com/preetshah1412/Jana-vani
+
+## 🌸 Lets's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/garima-jadhav">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
 </a>
 
 <a href="mailto:garimajadhav42@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35"/>
 </a>
 
 </p>
 
+
 💬 I'm always open to conversations about **technology, design, music, and data analytics.**
 
-✨ Always learning and building new things!
+
